@@ -12,7 +12,7 @@
 	<pluginRepositories>
 		<pluginRepository>
 			<id>ufcg-leda</id>
-			<url>http://150.165.15.10:8081/nexus/content/repositories/ufcg-leda</url>
+			<url>http://--/nexus/content/repositories/ufcg-leda</url>
 			<layout>default</layout>
 			<snapshots>
 				<enabled>true</enabled>
@@ -67,9 +67,10 @@
 							<!-- insira sua matricula -->
 							<matricula> -- </matricula>
 							<!-- insira o ID correto da atividade e a turma -->
-							<roteiro>R08-01</roteiro>
+							<roteiro>R10-01</roteiro>
 							<!-- NÃO MODIFIQUE AS TAGS ABAIXO -->
-							<semestre>20 -- /submitAtividade</url>
+							<semestre>2020.1</semestre>
+							<url>http:// -- /submitAtividade</url>
 						</configuration>
 					</execution>
 				</executions>
